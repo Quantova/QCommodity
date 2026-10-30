@@ -1,0 +1,6 @@
+node_modules/
+*.qcommodity.json
+*.pending.json
+*.key
+.env*
+native/target/
